@@ -1,0 +1,15 @@
+# Build output
+build/*
+!build/.gitkeep
+
+# Local junk
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
